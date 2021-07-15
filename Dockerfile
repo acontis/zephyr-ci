@@ -1,6 +1,6 @@
-FROM zephyrprojectrtos/ci:v0.17.0-rc1
+FROM zephyrprojectrtos/ci:v0.17.0
 ARG ZEPHYR_BRANCH=v2.5-branch
-ARG ZEPHYR_COMMIT=9e3c7b995f62df2dba124272a1dc0538ab8a5719
+ARG ZEPHYR_COMMIT=5a430eea4106ff0e744e6808e908ef632d2f16f2
 
 USER root
 
